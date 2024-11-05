@@ -1324,7 +1324,7 @@
             - title: Changelog
               url: /cli/v9/using-npm/changelog
               description: Changelog notes for each version
-    - title: Version 10.8.3
+    - title: Version 10.9.0
       shortName: v10
       url: /cli/v10
       default: true
@@ -1403,9 +1403,6 @@
             - title: npm help-search
               url: /cli/v10/commands/npm-help-search
               description: Get help on npm
-            - title: npm hook
-              url: /cli/v10/commands/npm-hook
-              description: Manage registry hooks
             - title: npm init
               url: /cli/v10/commands/npm-init
               description: Create a package.json file
